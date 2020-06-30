@@ -8,10 +8,12 @@ Social Manage
 
 One App == > all fanpage, all social network
 --
-Post new status anywhere you like
+Post new status anywhere you like 
+-
 Read all comment of your pages , like, reply imediately
+-
 Chat to you partner on facebook, zalo, tweeter in one app
-
+-
 
 Odoo
 ----
