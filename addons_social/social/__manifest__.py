@@ -7,7 +7,7 @@
     'summary': 'Easily manage your social media and website visitors',
     'version': '1.0',
     'description': """Easily manage your social media and website visitors""",
-    'depends': ['web', 'mail', 'iap', 'link_tracker'],
+    'depends': ['web', 'mail', 'iap', 'link_tracker','base'],
     'qweb': [
         'static/src/xml/social_templates.xml',
     ],
