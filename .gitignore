@@ -40,3 +40,6 @@ setup/win32/static/postgresql*.exe
 /src/
 /venv
 venv
+.conf
+.gitignore
+requirements.txt
